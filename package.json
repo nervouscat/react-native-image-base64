@@ -3,6 +3,8 @@
   "name": "react-native-image-base64",
   "version": "0.1.3",
   "description": "Convert image to base64",
+  "homepage": "https://github.com/nervouscat/react-native-image-base64",
+  "summary": "Image to base 64"
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
